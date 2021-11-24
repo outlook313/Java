@@ -1,4 +1,3 @@
 # Java
-java programs
-![java](https://user-images.githubusercontent.com/89722385/143200617-3730a29b-1710-4163-9a14-febd9371dcd3.jpeg)
-
+java programs<br>
+![java1](https://user-images.githubusercontent.com/89722385/143200946-838a943b-a29d-4d7a-aa7c-c96ea5fee2c5.jpeg)
