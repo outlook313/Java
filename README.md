@@ -13,13 +13,14 @@ Q2) Calculate Interest:<br>
 * rate of 0.07 for one year. The interest and
 * the value of the investment after one year are
 * printed to standard output.[get code from file:Interest.java]
-  <br><br>
+  <br>
+  <br>
 Q3) String Operations:<br>
   
-* This class implements a simple string operations
-* will find length of the string
-* comparing
-* lower-upper and upper- lower
-* Substring
-[get code from file:string_operations.java]
-  <br><br>
+ * This class implements a simple string operations
+ * will find length of the string
+ * comparing
+ * lower-upper and upper- lower
+ * Substring
+   [get code from file:string_operations.java]
+   <br><br>
