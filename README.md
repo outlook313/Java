@@ -15,5 +15,5 @@ Q2) Calculate Interest:<br>
 * printed to standard output.[get code from file:Interest.java]
   <br>
    <br>
-  Q3) String Operations:<br>
+Q3) String Operations:<br>
  
