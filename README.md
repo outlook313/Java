@@ -14,6 +14,6 @@ Q2) Calculate Interest:<br>
 * the value of the investment after one year are
 * printed to standard output.[get code from file:Interest.java]
   <br>
-   <br>
-Q3) String Operations:<br>
+   <br></b>
+<b>Q3) String Operations[get code from file: string_operations.java]<br>
  
