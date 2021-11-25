@@ -10,4 +10,6 @@
   <br>
    <br>
 3) String Operations[get code from file: string_operations.java]<br>
+4) Enum  [get code from file :EnumDemo.java]<br>
+5) Input By using Scanner Object [get code from File : input_output.java] <br>
  
