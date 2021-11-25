@@ -9,7 +9,7 @@
   This class implements a simple program that, will compute the amount of interest that is,earned on $17,000 invested at an interest, rate of 0.07 for one year. The interest and,the value of the investment after one year are,printed to standard output.[get code from file:Interest.java]
   <br>
    <br>
-3) String Operations[get code from file: string_operations.java]<br>
-4) Enum  [get code from file :EnumDemo.java]<br>
-5) Input By using Scanner Object [get code from File : input_output.java] <br>
+3) String Operations[get code from file: string_operations.java]<br><br>
+4) Enum  [get code from file :EnumDemo.java]<br><br>
+5) Input By using Scanner Object [get code from File : input_output.java] <br><br>
  
